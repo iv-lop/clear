@@ -1,1 +1,1 @@
-# CLEAR: CLinical Entity Augmented Retrieval for clinical information extraction
+# CLEAR: CLinical Entity Augmented Retrieval
